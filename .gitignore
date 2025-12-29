@@ -1,0 +1,9 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+
+db.sqlite3
+
+# Archivos de VS Code
+.vscode/
